@@ -39,16 +39,16 @@
 - Full CRUD operations
 - REST API integration
 - Clean and responsive UI  
-👉 Live: (add link)  
-👉 Code: (add link)
+👉 Live: (coming soon...)  
+👉 Code: (coming soon...)
 
 ---
 
 ### 🔹 E-commerce App
 - Product listing, cart, filters
 - Context API for state management  
-👉 Live: (add link)  
-👉 Code: (add link)
+👉 Live: (coming soon...)  
+👉 Code: (coming soon...)
 
 ---
 
