@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- Non-IT graduate transitioning into tech
+- From graduate transitioning into tech
 - Building real-world React applications
 - Practicing Data Structures & Algorithms daily
 - Focused on writing clean and scalable code
