@@ -59,18 +59,31 @@
 
   
 
-### 🔹 Nxt Watch App
-- Product listing, cart, filters
-- Context API for state management
+## 🔹 Nxt Watch App
 
-  
- ### 🔗 Links 
-👉 Live: (https://nxtwattchh.ccbp.tech/login)  
-👉 Code: (https://github.com/Naresh-Jogu/NxtWatch.git)
+A responsive video streaming platform inspired by YouTube, built using React.js.
+
+### 🚀 Highlights
+- Implemented authentication and protected routes using JWT
+- Built video listing, trending, gaming, and saved videos features
+- Added search, filters, and dynamic routing functionality
+- Used Context API for global state management
+- Designed a clean and responsive UI for mobile and desktop users
+- Integrated REST APIs for fetching real-time video data
+
+### 🛠️ Tech Stack
+- React.js
+- JavaScript
+- CSS
+- REST API
+- Context API
+- React Router
+
+### 🔗 Links
+- Live Demo: https://nxtwattchh.ccbp.tech/login
+- GitHub: https://github.com/Naresh-Jogu/NxtWatch.git
 
 ### 🔐 Demo Credentials
-
-#### Login
 - Username: `rahul`
 - Password: `rahul@2021`
 
