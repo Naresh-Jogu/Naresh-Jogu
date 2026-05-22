@@ -42,9 +42,17 @@
 👉 Live: (https://yournxttrendzzs.ccbp.tech/login)  
 👉 Code: (https://github.com/Naresh-Jogu/NxtWatch.git)
 
+- non-prime user
+  rahul
+  rahul@2021
+  
+- prime-user
+  raja
+  raja@2021
+
 ---
 
-### 🔹 E-commerce App
+### 🔹 Nxt Watch App
 - Product listing, cart, filters
 - Context API for state management  
 👉 Live: (coming soon...)  
