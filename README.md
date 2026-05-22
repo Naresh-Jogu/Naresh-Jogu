@@ -40,7 +40,7 @@
 - REST API integration
 - Clean and responsive UI  
 👉 Live: (https://yournxttrendzzs.ccbp.tech/login)  
-👉 Code: (coming soon...)
+👉 Code: (https://github.com/Naresh-Jogu/NxtWatch.git)
 
 ---
 
