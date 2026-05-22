@@ -63,7 +63,7 @@
 - Product listing, cart, filters
 - Context API for state management  
 👉 Live: (https://nxtwattchh.ccbp.tech/login)  
-👉 Code: (coming soon...)
+👉 Code: (https://github.com/Naresh-Jogu/NxtWatch.git)
 
 ---
 
