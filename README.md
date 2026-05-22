@@ -35,11 +35,11 @@
 
 ## 📌 Projects
 
-### 🔹 Task Manager App
+### 🔹 Nxt Trendzs E-commerce App
 - Full CRUD operations
 - REST API integration
 - Clean and responsive UI  
-👉 Live: (coming soon...)  
+👉 Live: (https://yournxttrendzzs.ccbp.tech/login)  
 👉 Code: (coming soon...)
 
 ---
