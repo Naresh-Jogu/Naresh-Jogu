@@ -35,27 +35,34 @@
 
 ## 📌 Projects
 
-### 🔹 Nxt Trendzs E-commerce App
-- Full CRUD operations
-- REST API integration
-- Clean and responsive UI  
-👉 Live: (https://yournxttrendzzs.ccbp.tech/login)  
-👉 Code: (https://github.com/Naresh-Jogu/NxtWatch.git)
+## 🔹 Nxt Trendz E-commerce App
 
-- non-prime user
-  rahul
-  rahul@2021
+- Built a responsive E-commerce web application using React.js
+- Implemented full CRUD operations
+- Integrated REST APIs for dynamic product data
+- Added authentication and protected routes
+- Designed a clean and mobile-responsive UI
+
+### 🔗 Links
+- Live Demo: https://yournxttrendzzs.ccbp.tech/login
+- GitHub: https://github.com/Naresh-Jogu/NxtWatch.git
+
+### 🔐 Demo Credentials
+
+#### Non-Prime User
+- Username: `rahul`
+- Password: `rahul@2021`
+
+#### Prime User
+- Username: `raja`
+- Password: `raja@2021`
+
   
-- prime-user
-  raja
-  raja@2021
-
----
 
 ### 🔹 Nxt Watch App
 - Product listing, cart, filters
 - Context API for state management  
-👉 Live: (coming soon...)  
+👉 Live: (https://nxtwattchh.ccbp.tech/login)  
 👉 Code: (coming soon...)
 
 ---
