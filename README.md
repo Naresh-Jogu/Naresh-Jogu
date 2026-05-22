@@ -1,47 +1,65 @@
-# Hi, I'm Naresh Jogu👋
+# Hi, I'm Naresh Jogu 👋
 
-💻 Full Stack Developer (React + Node.js)  
+💻 MERN Stack Developer  
+🚀 Building Full Stack Web Applications using React.js & Node.js  
 📍 India  
-🎯 Goal: learn Full stack in depth 
+🎯 Goal: Become a skilled Full Stack Developer and build scalable real-world applications
 
 ---
 
-## 🚀 About Me
-- From graduate transitioning into tech
-- Building real-world React applications
-- Practicing Data Structures & Algorithms daily
-- Focused on writing clean and scalable code
+# 🚀 About Me
+
+- Transitioning into tech with a strong focus on MERN Stack development
+- Building responsive and scalable web applications
+- Practicing Data Structures & Algorithms consistently
+- Focused on clean UI, reusable components, and API integration
+- Continuously improving frontend and backend development skills
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-**Frontend**
+## Frontend
 - React.js
 - JavaScript (ES6+)
-- HTML5, CSS3
+- HTML5
+- CSS3
+- Tailwind CSS
+- React Router
+- Context API
 
-**Backend**
+## Backend
 - Node.js
 - Express.js
+- REST APIs
 
-**Database**
+## Database
 - MongoDB
 
-**Tools**
-- Git, GitHub, VS Code, Postman
+## Tools
+- Git
+- GitHub
+- VS Code
+- Postman
 
 ---
 
-## 📌 Projects
+# 📌 Featured Projects
 
 ## 🔹 Nxt Trendz E-commerce App
 
-- Built a responsive E-commerce web application using React.js
-- Implemented full CRUD operations
-- Integrated REST APIs for dynamic product data
-- Added authentication and protected routes
-- Designed a clean and mobile-responsive UI
+Responsive E-commerce application built using React.js.
+
+### 🚀 Features
+- Product listing and filtering
+- Cart management functionality
+- Authentication and protected routes
+- REST API integration
+- Responsive UI design
+- Reusable React components
+
+### 🛠️ Tech Stack
+React.js • JavaScript • REST APIs • HTML5 • CSS3
 
 ### 🔗 Links
 - Live Demo: https://yournxttrendzzs.ccbp.tech/login
@@ -57,27 +75,22 @@
 - Username: `raja`
 - Password: `raja@2021`
 
-  
+---
 
 ## 🔹 Nxt Watch App
 
-A responsive video streaming platform inspired by YouTube, built using React.js.
+A video streaming platform inspired by YouTube.
 
-### 🚀 Highlights
-- Implemented authentication and protected routes using JWT
-- Built video listing, trending, gaming, and saved videos features
-- Added search, filters, and dynamic routing functionality
-- Used Context API for global state management
-- Designed a clean and responsive UI for mobile and desktop users
-- Integrated REST APIs for fetching real-time video data
+### 🚀 Features
+- Authentication and protected routes
+- Trending, Gaming, and Saved Videos sections
+- Search and filter functionality
+- Dynamic routing
+- Context API state management
+- Responsive design for all devices
 
 ### 🛠️ Tech Stack
-- React.js
-- JavaScript
-- CSS
-- REST API
-- Context API
-- React Router
+React.js • JavaScript • Context API • REST APIs • CSS3
 
 ### 🔗 Links
 - Live Demo: https://nxtwattchh.ccbp.tech/login
@@ -87,25 +100,18 @@ A responsive video streaming platform inspired by YouTube, built using React.js.
 - Username: `rahul`
 - Password: `rahul@2021`
 
+---
 
+# 📈 Currently Learning
 
+- Data Structures & Algorithms
+- Full Stack MERN Development
+- Backend Architecture
+- API Design & Integration
 
 ---
 
-### 🔹 Theme & Routing App
-- React Router + Context API
-- Dark/Light mode toggle  
-👉 Code: (add link)
+# 📫 Connect With Me
 
----
-
-## 📈 Currently Working On
-- Improving DSA (Arrays, Strings, HashMap)
-- Building full-stack projects
-- Preparing for developer roles
-
----
-
-## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/naresh-jogu-mern/
 - Email: kumarn29346@gmail.com
