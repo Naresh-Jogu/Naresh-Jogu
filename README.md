@@ -61,9 +61,21 @@
 
 ### 🔹 Nxt Watch App
 - Product listing, cart, filters
-- Context API for state management  
+- Context API for state management
+
+  
+ ### 🔗 Links 
 👉 Live: (https://nxtwattchh.ccbp.tech/login)  
 👉 Code: (https://github.com/Naresh-Jogu/NxtWatch.git)
+
+### 🔐 Demo Credentials
+
+#### Login
+- Username: `rahul`
+- Password: `rahul@2021`
+
+
+
 
 ---
 
