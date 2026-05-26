@@ -63,7 +63,6 @@ React.js • JavaScript • REST APIs • HTML5 • CSS3
 
 ### 🔗 Links
 - Live Demo: https://yournxttrendzzs.ccbp.tech/login
-- GitHub: https://github.com/Naresh-Jogu/NxtWatch.git
 
 ### 🔐 Demo Credentials
 
